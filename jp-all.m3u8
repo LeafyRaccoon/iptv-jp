@@ -1,0 +1,119 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,http://epg.utako.moe/jcom.xml"
+
+# --- Tokyo Region ---
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhkg_tokyo",NHK G
+http://vthanh.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhkg_tokyo",NHK G (Alternative 1)
+https://tsb-mega.i9.ee/stream/nhkg_avc_1080p
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhkg_tokyo",NHK G (Alternative 2)
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhke_tokyo",NHK E
+http://vthanh.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv",NTV (Nippon TV)
+http://vthanh.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv",NTV (JOAXDTV - Alternative)
+https://ntv4.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tbs",TBS
+http://vthanh.utako.moe/TBS/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv",Fuji TV
+http://vthanh.utako.moe/Fuji_TV/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi",TV Asahi
+http://vthanh.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo",TV Tokyo
+http://vthanh.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx",TOKYO MX1
+http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2",TOKYO MX2 (test)
+http://luong.utako.moe/mx2test/index.m3u8
+
+# --- Kansai Region ---
+#EXTINF:-1 group-title="Kansai" tvg-id="mbs",MBS
+http://luong.utako.moe/mbs/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="abc",ABC
+http://luong.utako.moe/abc/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="tv_osaka",TV Osaka
+http://luong.utako.moe/tvo/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="kansai_tv",Kansai TV
+http://luong.utako.moe/kansaitv/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="yormuri_tv",ytv
+http://luong.utako.moe/ytv/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="kbs",KBS
+http://luong.utako.moe/kbs/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="sun_tv",SUN
+http://luong.utako.moe/suntv/index.m3u8
+
+# --- BS (Broadcast Satellite) ---
+#EXTINF:-1 group-title="BS" tvg-id="nhk_bs",NHK BS
+http://vthanh.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="nhk_bsp4k",NHK BS4K
+http://luong.utako.moe/bsp4k/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_ntv",BS NTV
+http://luong.utako.moe/bsntv/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_asahi",BS Asahi
+http://luong.utako.moe/bsasahi/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_tbs",BS TBS
+http://luong.utako.moe/bstbs/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_tvtokyo",BS TV Tokyo
+http://luong.utako.moe/bstvtokyo/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_fuji",BS Fuji
+http://luong.utako.moe/bsfuji/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="BS11.jp",BS11
+http://vthanh.utako.moe/BS11/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="BSShochikuTokyu",BS Shochiku Tokyu (1080p)
+https://list.iptvcat.com/my_list/s/9d5fb81212ec6a087b2b53e0b5694781.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo_4k",BS TV Tokyo 4K (test)
+http://luong.utako.moe/bstx4k/index.m3u8
+
+# --- CS (Premium Channels) ---
+#EXTINF:-1 group-title="CS" tvg-id="animax",Animax
+http://vthanh.utako.moe/Animax/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="at-x",AT-X
+http://vthanh.utako.moe/AT-X/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="at-x",AT-X (Alternative)
+http://luong.utako.moe/at-x/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="at-x",AT-X (Neetball)
+https://neetball.net/live/neet3.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="wowow_prime",WOWOW Prime
+http://luong.utako.moe/wprime/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="wowow_cinema",WOWOW Cinema
+http://luong.utako.moe/wcinema/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="wowow_live",WOWOW Live
+http://luong.utako.moe/wlive/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="js1",JSport 1
+http://luong.utako.moe/js1/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="js2",JSport 2
+http://luong.utako.moe/js2/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="js3",JSport 3
+http://luong.utako.moe/js3/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="js4",JSport 4
+http://luong.utako.moe/js4/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="space_shower",Space Shower TV
+http://luong.utako.moe/spaceshower/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="tbs_ch1",TBS Channel 1
+http://luong.utako.moe/tbsch1/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="tbs_ch2",TBS Channel 2
+http://luong.utako.moe/tbsch2/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="Pigoo.jp",Pigoo-test (NSFW)
+http://luong.utako.moe/pigoo/index.m3u8
+
+# --- News & General ---
+#EXTINF:-1 group-title="News" tvg-id="NHKWorld.jp",NHK World (Official)
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+#EXTINF:-1 group-title="News" tvg-id="NitteleNews24.jp",Nittele News24 (Official1)
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 group-title="News" tvg-id="NitteleNews24.jp",Nittele News24 (Official2)
+https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8
+#EXTINF:-1 group-title="News" tvg-id="Weathernews.jp",Weathernews
+https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
+#EXTINF:-1 group-title="News" tvg-id="Weathernews.jp",Weathernews (Sub-channel)
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+#EXTINF:-1 group-title="General" tvg-id="CGNTV.jp",CGNTV Japan (1080p)
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+
+# --- Shopping & Variety ---
+#EXTINF:-1 group-title="Shopping" tvg-id="QVC.jp",QVC
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 group-title="Shopping" tvg-id="ShopChannel.jp",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 group-title="Variety" tvg-id="GakinoTsukai.jp",Gaki no Tsukai (English Subs) (720p)
+https://list.iptvcat.com/my_list/s/0df41e9fc06e7d9a6f19b5dc988b1491.m3u8
