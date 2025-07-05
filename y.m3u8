@@ -1,19 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="EXXXOTICA" tvg-logo="" group-title="XXX",EXXXOTICA
+http://31.148.48.15/O-la-la/index.m3u8
 #EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="XXX",Fashion TV Midnight Secrets (1080p)
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HOTTV.pt" tvg-logo="https://i.imgur.com/EV4R8DY.png" group-title="XXX",Hot TV (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCFV_yPFxPbbmrYJ9J6zJglA.m3u8
 #EXTINF:-1 tvg-id="JennyLive.us" tvg-logo="https://i.imgur.com/3vsBZI3.png" group-title="XXX",Miami TV Jenny Live (720p) [Not 24/7]
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-#EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="XXX",Miami TV (720p)
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1 tvg-id="MiamiTVLatino.us" tvg-logo="https://i.imgur.com/q70o86Q.png" group-title="XXX",MiamiTV Latino (1080p)
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
 #EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-logo="https://i.imgur.com/MpQtdTb.png" group-title="XXX",Miami TV Mexico (1080p)
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-#EXTINF:-1 tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/adhMvTl.png" group-title="XXX",O-la-la (576p)
-http://93.125.29.22:8787/Olala
+#EXTINF:-1 tvg-id="Playboy" tvg-logo="" group-title="XXX",Playboy
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="RealityKings" tvg-logo="" group-title="XXX",RealityKings
+http://85.11.144.9:4222/RealityKings
 #EXTINF:-1 tvg-id="SunBeachTV.us" tvg-logo="https://i.imgur.com/o4fZU2M.png" group-title="XXX",SunBeach TV (1080p)
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-#EXTINF:-1 tvg-id="SuperOne.hu" tvg-logo="https://i.imgur.com/T4PbWL6.png" group-title="XXX",SuperOne (1080p)
-http://84.17.61.203:8086/udp/238.2.25.83:1234
